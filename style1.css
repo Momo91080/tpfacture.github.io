@@ -1,0 +1,32 @@
+.en-tete
+{
+	background: #D4D4D4;
+	
+	}
+.logo
+{
+	display: inline-block;
+}
+.info
+{
+	display: inline-block;
+	
+	height: 70%;
+	margin-left: 5%
+	
+}
+.facture
+{
+	display: inline-block;
+	
+	margin-left: 5%
+}
+.div1
+{
+background: orange;
+border: 6px solid #EF5B3E; 	
+}
+.tableau2
+{
+border: 6px solid #EF5B3E; 	
+}	
